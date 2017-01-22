@@ -1,3 +1,9 @@
+# UPDATE
+
+This repository has moved to Bitbucket and is no longer updated.
+
+The production version of this game is available on https://magicalhex.com/
+
 # population-life-cycles
 Population life cycles simulates adding a group of individuals that will reproduce, grow old and die.
 
